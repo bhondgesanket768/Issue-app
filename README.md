@@ -39,8 +39,6 @@ This is a simple react-redux Application.
 ```
 ## links
 
-<hr>
-
 [React-Redux Quick start](https://react-redux.js.org/introduction/quick-start)
 
 [Material-UI](https://material-ui.com/getting-started/installation/)
